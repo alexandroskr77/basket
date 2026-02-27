@@ -17,7 +17,7 @@ export const Footer = () => {
               className="mr-2"
               alt="Logo of Bracket"
             />
-            <b className="text-3xl">Bracket</b>
+            <b className="text-3xl">ΜΠΑΣΚΕΤ</b>
           </Link>
         </div>
 
