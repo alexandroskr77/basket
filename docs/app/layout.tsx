@@ -23,7 +23,7 @@ const navbar = (
           className="mr-2"
           alt="Preview of Bracket"
         />
-        <b className="text-3xl">Bracket</b>
+        <b className="text-3xl">ΜΠΑΣΚΕΤ</b>
       </>
     }
     projectLink="https://github.com/evroon/bracket"
